@@ -1,0 +1,35 @@
+:root{
+    --theBlue: rgb(0, 5, 82);
+    --StandardWidth: 500px;
+    --Gold: rgb(118, 102, 7);
+}
+
+.totalFlexCol{
+    display: flex;
+    flex-direction: column;
+    max-width: var(--StandardWidth);
+}
+
+.secondTitle{
+    color: var(--theBlue);
+    font-family: 'Calibri';
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 22;
+}
+
+.inkscape{
+    height: 300px;
+    background-color: var(--theBlue);
+    max-width: 100%;
+}
+
+.code{
+    background-color: rgb(22, 51, 69);
+    color: rgb(221, 87, 3);
+    padding: 20px;
+}
+
+.ST-titles{
+    line-height: 25px;
+}
