@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/TKMPLAN/static/css/main.3c6a7301.css",
-    "main.js": "/TKMPLAN/static/js/main.5b9fffda.js",
+    "main.js": "/TKMPLAN/static/js/main.41b9d30e.js",
     "index.html": "/TKMPLAN/index.html",
     "main.3c6a7301.css.map": "/TKMPLAN/static/css/main.3c6a7301.css.map",
-    "main.5b9fffda.js.map": "/TKMPLAN/static/js/main.5b9fffda.js.map"
+    "main.41b9d30e.js.map": "/TKMPLAN/static/js/main.41b9d30e.js.map"
   },
   "entrypoints": [
     "static/css/main.3c6a7301.css",
-    "static/js/main.5b9fffda.js"
+    "static/js/main.41b9d30e.js"
   ]
 }
